@@ -1,2 +1,2 @@
 # Tugas-2
-Tugas Pemrograman Berbasis Platform - HTML
+Pemrograman Berbasis Platform - HTML
